@@ -1,0 +1,12 @@
+#stdio.h
+
+int main()
+{
+
+printf("Test Print");
+
+Return 0;
+
+
+
+}
